@@ -6,7 +6,8 @@
 
 ###
 
-⚙ My stack :
+
+⚙ <h2> My stack :</h2>
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML5" alt="HTML" width="30" height="30"/>&nbsp;&nbsp;
