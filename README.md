@@ -20,7 +20,6 @@
    <img src="https://ik.imagekit.io/irinavn2011/react-native-logo-768x890.png?updatedAt=1687875595721" title="React-native" alt="React-native" width="30" height="30"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="30" height="30"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" alt="Git" width="30" height="30"/>&nbsp;&nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-liquid.svg" title="Git" alt="Git" width="30" height="30"/>&nbsp;&nbsp;
 </div>
 
 <!--
